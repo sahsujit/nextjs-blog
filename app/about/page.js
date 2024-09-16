@@ -77,8 +77,6 @@
 
 
 
-
-
 import Image from 'next/image';
 
 export default function About() {
@@ -131,7 +129,7 @@ export default function About() {
                 />
               </div>
               <div className="md:w-2/3 md:pl-8 mt-8 md:mt-0">
-                <h3 className="text-2xl font-bold text-gray-800  dark:text-white">The Spark of Curiosity</h3>
+                <h3 className="text-2xl font-bold text-gray-800 dark:text-white">The Spark of Curiosity</h3>
                 <p className="mt-4 text-gray-600 dark:text-gray-50">
                   Sujit&apos;s coding journey began in school when he stumbled upon his first programming language—Python. What started as a simple curiosity quickly turned into a passion, as Sujit spent countless hours experimenting with code, building small projects, and learning the fundamentals of web development.
                 </p>
