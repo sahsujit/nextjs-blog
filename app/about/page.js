@@ -1,4 +1,4 @@
-"use client"
+
 import Image from 'next/image';
 
 export default function About() {
@@ -21,10 +21,10 @@ export default function About() {
             <div className="w-full md:w-2/3 flex flex-col justify-center ">
               <h1 className="text-4xl font-bold text-gray-800 dark:text-white mb-4">About Me</h1>
               <p className="text-gray-600 dark:text-gray-50 text-lg mb-4">
-                Hello! I'm Sujit, a passionate web developer . I created this blog to enjoy coding journey.
+                Hello! I&apos;m Sujit, a passionate web developer . I created this blog to enjoy coding journey.
               </p>
               <p className="text-gray-600 dark:text-gray-50 text-lg">
-                Whether you're just starting out or looking to sharpen your skills, you'll find a variety of resources and insights here. Let's explore the world of programming together!
+                Whether you&apos;re just starting out or looking to sharpen your skills, you&apos;ll find a variety of resources and insights here. Let&apos;s explore the world of programming together!
               </p>
             </div>
           </div>
@@ -36,7 +36,7 @@ export default function About() {
           <div className="text-center mb-12">
             <h2 className="text-3xl font-extrabold text-gray-900 dark:text-white">Sujit's Journey as a Coder</h2>
             <p className="mt-4 text-lg text-gray-600 dark:text-gray-50">
-              From curious beginner to seasoned developer, here's how Sujit navigated the world of programming.
+              From curious beginner to seasoned developer, here&apos;s how Sujit navigated the world of programming.
             </p>
           </div>
           <div className="space-y-12">
@@ -47,7 +47,7 @@ export default function About() {
               <div className="md:w-2/3 md:pl-8 mt-8 md:mt-0">
                 <h3 className="text-2xl font-bold text-gray-800  dark:text-white">The Spark of Curiosity</h3>
                 <p className="mt-4 text-gray-600 dark:text-gray-50">
-                  Sujit's coding journey began in  school when he stumbled upon his first programming language—Python. What started as a simple curiosity quickly turned into a passion, as Sujit spent countless hours experimenting with code, building small projects, and learning the fundamentals of web development.
+                  Sujit&apos;s coding journey began in  school when he stumbled upon his first programming language—Python. What started as a simple curiosity quickly turned into a passion, as Sujit spent countless hours experimenting with code, building small projects, and learning the fundamentals of web development.
                 </p>
               </div>
             </div>
@@ -59,7 +59,7 @@ export default function About() {
               <div className="md:w-2/3 md:pr-8 mt-8 md:mt-0">
                 <h3 className="text-2xl font-bold text-gray-800 dark:text-white">Diving Deeper</h3>
                 <p className="mt-4 text-gray-600 dark:text-gray-50">
-                  After mastering the basics, Sujit's thirst for knowledge grew. He began exploring more complex topics such as web development. Enrolling in online courses , Sujit quickly expanded his skill set, taking on freelance projects to apply his knowledge in real-world scenarios.
+                  After mastering the basics, Sujit&apos;s thirst for knowledge grew. He began exploring more complex topics such as web development. Enrolling in online courses , Sujit quickly expanded his skill set, taking on freelance projects to apply his knowledge in real-world scenarios.
                 </p>
               </div>
             </div>
